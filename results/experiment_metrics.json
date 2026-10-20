@@ -1,0 +1,53 @@
+{
+    "Checklist baseline": {
+        "Accuracy": 0.664,
+        "Precision": 0.7137,
+        "Recall": 0.2902,
+        "F1": 0.4126,
+        "ROC_AUC": "Not calculated",
+        "Confusion_Matrix": [
+            [
+                819,
+                71
+            ],
+            [
+                433,
+                177
+            ]
+        ]
+    },
+    "Random Forest": {
+        "Accuracy": 0.6873,
+        "Precision": 0.6158,
+        "Recall": 0.6148,
+        "F1": 0.6153,
+        "ROC_AUC": 0.7423,
+        "Confusion_Matrix": [
+            [
+                656,
+                234
+            ],
+            [
+                235,
+                375
+            ]
+        ]
+    },
+    "Hybrid rules + AI": {
+        "Accuracy": 0.6427,
+        "Precision": 0.5413,
+        "Recall": 0.7951,
+        "F1": 0.6441,
+        "ROC_AUC": 0.7405,
+        "Confusion_Matrix": [
+            [
+                479,
+                411
+            ],
+            [
+                125,
+                485
+            ]
+        ]
+    }
+}

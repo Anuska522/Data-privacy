@@ -1,0 +1,887 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mxfile host="app.diagrams.net" modified="2026-10-20T15:00:00.000Z" agent="Antigravity" version="24.0.0" type="device">
+  <diagram id="diag-1" name="Fig 01 Evolution of IoT Ecosystems and Compliance Challenges">
+    <mxGraphModel dx="1000" dy="600" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="title-0" value="&amp;lt;b&amp;gt;Fig 01 Evolution of IoT Ecosystems and Compliance Challenges&amp;lt;/b&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;fontColor=#1e293b;" vertex="1" parent="1">
+          <mxGeometry x="150" y="40" width="500" height="30" as_="geometry" />
+        </mxCell>
+        <mxCell id="box-0-0" value="&amp;lt;b&amp;gt;Input &amp; Ingestion Layer&amp;lt;/b&amp;gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e0f2fe;strokeColor=#0284c7;strokeWidth=2;fontSize=12;fontColor=#0f172a;" vertex="1" parent="1">
+          <mxGeometry x="200" y="80" width="400" height="60" as_="geometry" />
+        </mxCell>
+        <mxCell id="box-0-1" value="&amp;lt;b&amp;gt;Processing, Governance &amp; Risk Assessment&amp;lt;/b&amp;gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fef3c7;strokeColor=#d97706;strokeWidth=2;fontSize=12;fontColor=#0f172a;" vertex="1" parent="1">
+          <mxGeometry x="200" y="180" width="400" height="60" as_="geometry" />
+        </mxCell>
+        <mxCell id="edge-0-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#475569;strokeWidth=2;" edge="1" parent="1" source="box-0-0" target="box-0-1">
+          <mxGeometry relative="1" as_="geometry" />
+        </mxCell>
+        <mxCell id="box-0-2" value="&amp;lt;b&amp;gt;Enforcement, Audit &amp; Output Plane&amp;lt;/b&amp;gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dcfce7;strokeColor=#16a34a;strokeWidth=2;fontSize=12;fontColor=#0f172a;" vertex="1" parent="1">
+          <mxGeometry x="200" y="280" width="400" height="60" as_="geometry" />
+        </mxCell>
+        <mxCell id="edge-0-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#475569;strokeWidth=2;" edge="1" parent="1" source="box-0-1" target="box-0-2">
+          <mxGeometry relative="1" as_="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="diag-2" name="Fig 02 AI-Driven Privacy Governance Landscape">
+    <mxGraphModel dx="1000" dy="600" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="title-1" value="&amp;lt;b&amp;gt;Fig 02 AI-Driven Privacy Governance Landscape&amp;lt;/b&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;fontColor=#1e293b;" vertex="1" parent="1">
+          <mxGeometry x="150" y="40" width="500" height="30" as_="geometry" />
+        </mxCell>
+        <mxCell id="box-1-0" value="&amp;lt;b&amp;gt;Input &amp; Ingestion Layer&amp;lt;/b&amp;gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e0f2fe;strokeColor=#0284c7;strokeWidth=2;fontSize=12;fontColor=#0f172a;" vertex="1" parent="1">
+          <mxGeometry x="200" y="80" width="400" height="60" as_="geometry" />
+        </mxCell>
+        <mxCell id="box-1-1" value="&amp;lt;b&amp;gt;Processing, Governance &amp; Risk Assessment&amp;lt;/b&amp;gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fef3c7;strokeColor=#d97706;strokeWidth=2;fontSize=12;fontColor=#0f172a;" vertex="1" parent="1">
+          <mxGeometry x="200" y="180" width="400" height="60" as_="geometry" />
+        </mxCell>
+        <mxCell id="edge-1-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#475569;strokeWidth=2;" edge="1" parent="1" source="box-1-0" target="box-1-1">
+          <mxGeometry relative="1" as_="geometry" />
+        </mxCell>
+        <mxCell id="box-1-2" value="&amp;lt;b&amp;gt;Enforcement, Audit &amp; Output Plane&amp;lt;/b&amp;gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dcfce7;strokeColor=#16a34a;strokeWidth=2;fontSize=12;fontColor=#0f172a;" vertex="1" parent="1">
+          <mxGeometry x="200" y="280" width="400" height="60" as_="geometry" />
+        </mxCell>
+        <mxCell id="edge-1-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#475569;strokeWidth=2;" edge="1" parent="1" source="box-1-1" target="box-1-2">
+          <mxGeometry relative="1" as_="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="diag-3" name="Fig 03 IoT Privacy Compliance Challenge Landscape">
+    <mxGraphModel dx="1000" dy="600" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="title-2" value="&amp;lt;b&amp;gt;Fig 03 IoT Privacy Compliance Challenge Landscape&amp;lt;/b&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;fontColor=#1e293b;" vertex="1" parent="1">
+          <mxGeometry x="150" y="40" width="500" height="30" as_="geometry" />
+        </mxCell>
+        <mxCell id="box-2-0" value="&amp;lt;b&amp;gt;Input &amp; Ingestion Layer&amp;lt;/b&amp;gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e0f2fe;strokeColor=#0284c7;strokeWidth=2;fontSize=12;fontColor=#0f172a;" vertex="1" parent="1">
+          <mxGeometry x="200" y="80" width="400" height="60" as_="geometry" />
+        </mxCell>
+        <mxCell id="box-2-1" value="&amp;lt;b&amp;gt;Processing, Governance &amp; Risk Assessment&amp;lt;/b&amp;gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fef3c7;strokeColor=#d97706;strokeWidth=2;fontSize=12;fontColor=#0f172a;" vertex="1" parent="1">
+          <mxGeometry x="200" y="180" width="400" height="60" as_="geometry" />
+        </mxCell>
+        <mxCell id="edge-2-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#475569;strokeWidth=2;" edge="1" parent="1" source="box-2-0" target="box-2-1">
+          <mxGeometry relative="1" as_="geometry" />
+        </mxCell>
+        <mxCell id="box-2-2" value="&amp;lt;b&amp;gt;Enforcement, Audit &amp; Output Plane&amp;lt;/b&amp;gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dcfce7;strokeColor=#16a34a;strokeWidth=2;fontSize=12;fontColor=#0f172a;" vertex="1" parent="1">
+          <mxGeometry x="200" y="280" width="400" height="60" as_="geometry" />
+        </mxCell>
+        <mxCell id="edge-2-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#475569;strokeWidth=2;" edge="1" parent="1" source="box-2-1" target="box-2-2">
+          <mxGeometry relative="1" as_="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="diag-4" name="Fig 04 Literature Taxonomy Framework">
+    <mxGraphModel dx="1000" dy="600" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="title-3" value="&amp;lt;b&amp;gt;Fig 04 Literature Taxonomy Framework&amp;lt;/b&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;fontColor=#1e293b;" vertex="1" parent="1">
+          <mxGeometry x="150" y="40" width="500" height="30" as_="geometry" />
+        </mxCell>
+        <mxCell id="box-3-0" value="&amp;lt;b&amp;gt;Input &amp; Ingestion Layer&amp;lt;/b&amp;gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e0f2fe;strokeColor=#0284c7;strokeWidth=2;fontSize=12;fontColor=#0f172a;" vertex="1" parent="1">
+          <mxGeometry x="200" y="80" width="400" height="60" as_="geometry" />
+        </mxCell>
+        <mxCell id="box-3-1" value="&amp;lt;b&amp;gt;Processing, Governance &amp; Risk Assessment&amp;lt;/b&amp;gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fef3c7;strokeColor=#d97706;strokeWidth=2;fontSize=12;fontColor=#0f172a;" vertex="1" parent="1">
+          <mxGeometry x="200" y="180" width="400" height="60" as_="geometry" />
+        </mxCell>
+        <mxCell id="edge-3-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#475569;strokeWidth=2;" edge="1" parent="1" source="box-3-0" target="box-3-1">
+          <mxGeometry relative="1" as_="geometry" />
+        </mxCell>
+        <mxCell id="box-3-2" value="&amp;lt;b&amp;gt;Enforcement, Audit &amp; Output Plane&amp;lt;/b&amp;gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dcfce7;strokeColor=#16a34a;strokeWidth=2;fontSize=12;fontColor=#0f172a;" vertex="1" parent="1">
+          <mxGeometry x="200" y="280" width="400" height="60" as_="geometry" />
+        </mxCell>
+        <mxCell id="edge-3-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#475569;strokeWidth=2;" edge="1" parent="1" source="box-3-1" target="box-3-2">
+          <mxGeometry relative="1" as_="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="diag-5" name="Fig 05 Requirements Engineering Framework">
+    <mxGraphModel dx="1000" dy="600" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="title-4" value="&amp;lt;b&amp;gt;Fig 05 Requirements Engineering Framework&amp;lt;/b&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;fontColor=#1e293b;" vertex="1" parent="1">
+          <mxGeometry x="150" y="40" width="500" height="30" as_="geometry" />
+        </mxCell>
+        <mxCell id="box-4-0" value="&amp;lt;b&amp;gt;Input &amp; Ingestion Layer&amp;lt;/b&amp;gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e0f2fe;strokeColor=#0284c7;strokeWidth=2;fontSize=12;fontColor=#0f172a;" vertex="1" parent="1">
+          <mxGeometry x="200" y="80" width="400" height="60" as_="geometry" />
+        </mxCell>
+        <mxCell id="box-4-1" value="&amp;lt;b&amp;gt;Processing, Governance &amp; Risk Assessment&amp;lt;/b&amp;gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fef3c7;strokeColor=#d97706;strokeWidth=2;fontSize=12;fontColor=#0f172a;" vertex="1" parent="1">
+          <mxGeometry x="200" y="180" width="400" height="60" as_="geometry" />
+        </mxCell>
+        <mxCell id="edge-4-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#475569;strokeWidth=2;" edge="1" parent="1" source="box-4-0" target="box-4-1">
+          <mxGeometry relative="1" as_="geometry" />
+        </mxCell>
+        <mxCell id="box-4-2" value="&amp;lt;b&amp;gt;Enforcement, Audit &amp; Output Plane&amp;lt;/b&amp;gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dcfce7;strokeColor=#16a34a;strokeWidth=2;fontSize=12;fontColor=#0f172a;" vertex="1" parent="1">
+          <mxGeometry x="200" y="280" width="400" height="60" as_="geometry" />
+        </mxCell>
+        <mxCell id="edge-4-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#475569;strokeWidth=2;" edge="1" parent="1" source="box-4-1" target="box-4-2">
+          <mxGeometry relative="1" as_="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="diag-6" name="Fig 06 AI-Driven Privacy Compliance Architecture for Heterogeneous IoT Environments">
+    <mxGraphModel dx="1000" dy="600" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="title-5" value="&amp;lt;b&amp;gt;Fig 06 AI-Driven Privacy Compliance Architecture for Heterogeneous IoT Environments&amp;lt;/b&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;fontColor=#1e293b;" vertex="1" parent="1">
+          <mxGeometry x="150" y="40" width="500" height="30" as_="geometry" />
+        </mxCell>
+        <mxCell id="box-5-0" value="&amp;lt;b&amp;gt;Input &amp; Ingestion Layer&amp;lt;/b&amp;gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e0f2fe;strokeColor=#0284c7;strokeWidth=2;fontSize=12;fontColor=#0f172a;" vertex="1" parent="1">
+          <mxGeometry x="200" y="80" width="400" height="60" as_="geometry" />
+        </mxCell>
+        <mxCell id="box-5-1" value="&amp;lt;b&amp;gt;Processing, Governance &amp; Risk Assessment&amp;lt;/b&amp;gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fef3c7;strokeColor=#d97706;strokeWidth=2;fontSize=12;fontColor=#0f172a;" vertex="1" parent="1">
+          <mxGeometry x="200" y="180" width="400" height="60" as_="geometry" />
+        </mxCell>
+        <mxCell id="edge-5-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#475569;strokeWidth=2;" edge="1" parent="1" source="box-5-0" target="box-5-1">
+          <mxGeometry relative="1" as_="geometry" />
+        </mxCell>
+        <mxCell id="box-5-2" value="&amp;lt;b&amp;gt;Enforcement, Audit &amp; Output Plane&amp;lt;/b&amp;gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dcfce7;strokeColor=#16a34a;strokeWidth=2;fontSize=12;fontColor=#0f172a;" vertex="1" parent="1">
+          <mxGeometry x="200" y="280" width="400" height="60" as_="geometry" />
+        </mxCell>
+        <mxCell id="edge-5-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#475569;strokeWidth=2;" edge="1" parent="1" source="box-5-1" target="box-5-2">
+          <mxGeometry relative="1" as_="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="diag-7" name="Fig 07 Multi-Layer Compliance Framework">
+    <mxGraphModel dx="1000" dy="600" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="title-6" value="&amp;lt;b&amp;gt;Fig 07 Multi-Layer Compliance Framework&amp;lt;/b&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;fontColor=#1e293b;" vertex="1" parent="1">
+          <mxGeometry x="150" y="40" width="500" height="30" as_="geometry" />
+        </mxCell>
+        <mxCell id="box-6-0" value="&amp;lt;b&amp;gt;Input &amp; Ingestion Layer&amp;lt;/b&amp;gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e0f2fe;strokeColor=#0284c7;strokeWidth=2;fontSize=12;fontColor=#0f172a;" vertex="1" parent="1">
+          <mxGeometry x="200" y="80" width="400" height="60" as_="geometry" />
+        </mxCell>
+        <mxCell id="box-6-1" value="&amp;lt;b&amp;gt;Processing, Governance &amp; Risk Assessment&amp;lt;/b&amp;gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fef3c7;strokeColor=#d97706;strokeWidth=2;fontSize=12;fontColor=#0f172a;" vertex="1" parent="1">
+          <mxGeometry x="200" y="180" width="400" height="60" as_="geometry" />
+        </mxCell>
+        <mxCell id="edge-6-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#475569;strokeWidth=2;" edge="1" parent="1" source="box-6-0" target="box-6-1">
+          <mxGeometry relative="1" as_="geometry" />
+        </mxCell>
+        <mxCell id="box-6-2" value="&amp;lt;b&amp;gt;Enforcement, Audit &amp; Output Plane&amp;lt;/b&amp;gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dcfce7;strokeColor=#16a34a;strokeWidth=2;fontSize=12;fontColor=#0f172a;" vertex="1" parent="1">
+          <mxGeometry x="200" y="280" width="400" height="60" as_="geometry" />
+        </mxCell>
+        <mxCell id="edge-6-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#475569;strokeWidth=2;" edge="1" parent="1" source="box-6-1" target="box-6-2">
+          <mxGeometry relative="1" as_="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="diag-8" name="Fig 08 IoT Data Acquisition Framework">
+    <mxGraphModel dx="1000" dy="600" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="title-7" value="&amp;lt;b&amp;gt;Fig 08 IoT Data Acquisition Framework&amp;lt;/b&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;fontColor=#1e293b;" vertex="1" parent="1">
+          <mxGeometry x="150" y="40" width="500" height="30" as_="geometry" />
+        </mxCell>
+        <mxCell id="box-7-0" value="&amp;lt;b&amp;gt;Input &amp; Ingestion Layer&amp;lt;/b&amp;gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e0f2fe;strokeColor=#0284c7;strokeWidth=2;fontSize=12;fontColor=#0f172a;" vertex="1" parent="1">
+          <mxGeometry x="200" y="80" width="400" height="60" as_="geometry" />
+        </mxCell>
+        <mxCell id="box-7-1" value="&amp;lt;b&amp;gt;Processing, Governance &amp; Risk Assessment&amp;lt;/b&amp;gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fef3c7;strokeColor=#d97706;strokeWidth=2;fontSize=12;fontColor=#0f172a;" vertex="1" parent="1">
+          <mxGeometry x="200" y="180" width="400" height="60" as_="geometry" />
+        </mxCell>
+        <mxCell id="edge-7-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#475569;strokeWidth=2;" edge="1" parent="1" source="box-7-0" target="box-7-1">
+          <mxGeometry relative="1" as_="geometry" />
+        </mxCell>
+        <mxCell id="box-7-2" value="&amp;lt;b&amp;gt;Enforcement, Audit &amp; Output Plane&amp;lt;/b&amp;gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dcfce7;strokeColor=#16a34a;strokeWidth=2;fontSize=12;fontColor=#0f172a;" vertex="1" parent="1">
+          <mxGeometry x="200" y="280" width="400" height="60" as_="geometry" />
+        </mxCell>
+        <mxCell id="edge-7-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#475569;strokeWidth=2;" edge="1" parent="1" source="box-7-1" target="box-7-2">
+          <mxGeometry relative="1" as_="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="diag-9" name="Fig 09 Edge Governance Architecture">
+    <mxGraphModel dx="1000" dy="600" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="title-8" value="&amp;lt;b&amp;gt;Fig 09 Edge Governance Architecture&amp;lt;/b&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;fontColor=#1e293b;" vertex="1" parent="1">
+          <mxGeometry x="150" y="40" width="500" height="30" as_="geometry" />
+        </mxCell>
+        <mxCell id="box-8-0" value="&amp;lt;b&amp;gt;Input &amp; Ingestion Layer&amp;lt;/b&amp;gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e0f2fe;strokeColor=#0284c7;strokeWidth=2;fontSize=12;fontColor=#0f172a;" vertex="1" parent="1">
+          <mxGeometry x="200" y="80" width="400" height="60" as_="geometry" />
+        </mxCell>
+        <mxCell id="box-8-1" value="&amp;lt;b&amp;gt;Processing, Governance &amp; Risk Assessment&amp;lt;/b&amp;gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fef3c7;strokeColor=#d97706;strokeWidth=2;fontSize=12;fontColor=#0f172a;" vertex="1" parent="1">
+          <mxGeometry x="200" y="180" width="400" height="60" as_="geometry" />
+        </mxCell>
+        <mxCell id="edge-8-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#475569;strokeWidth=2;" edge="1" parent="1" source="box-8-0" target="box-8-1">
+          <mxGeometry relative="1" as_="geometry" />
+        </mxCell>
+        <mxCell id="box-8-2" value="&amp;lt;b&amp;gt;Enforcement, Audit &amp; Output Plane&amp;lt;/b&amp;gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dcfce7;strokeColor=#16a34a;strokeWidth=2;fontSize=12;fontColor=#0f172a;" vertex="1" parent="1">
+          <mxGeometry x="200" y="280" width="400" height="60" as_="geometry" />
+        </mxCell>
+        <mxCell id="edge-8-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#475569;strokeWidth=2;" edge="1" parent="1" source="box-8-1" target="box-8-2">
+          <mxGeometry relative="1" as_="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="diag-10" name="Fig 10 Edge Compliance Monitoring Workflow">
+    <mxGraphModel dx="1000" dy="600" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="title-9" value="&amp;lt;b&amp;gt;Fig 10 Edge Compliance Monitoring Workflow&amp;lt;/b&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;fontColor=#1e293b;" vertex="1" parent="1">
+          <mxGeometry x="150" y="40" width="500" height="30" as_="geometry" />
+        </mxCell>
+        <mxCell id="box-9-0" value="&amp;lt;b&amp;gt;Input &amp; Ingestion Layer&amp;lt;/b&amp;gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e0f2fe;strokeColor=#0284c7;strokeWidth=2;fontSize=12;fontColor=#0f172a;" vertex="1" parent="1">
+          <mxGeometry x="200" y="80" width="400" height="60" as_="geometry" />
+        </mxCell>
+        <mxCell id="box-9-1" value="&amp;lt;b&amp;gt;Processing, Governance &amp; Risk Assessment&amp;lt;/b&amp;gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fef3c7;strokeColor=#d97706;strokeWidth=2;fontSize=12;fontColor=#0f172a;" vertex="1" parent="1">
+          <mxGeometry x="200" y="180" width="400" height="60" as_="geometry" />
+        </mxCell>
+        <mxCell id="edge-9-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#475569;strokeWidth=2;" edge="1" parent="1" source="box-9-0" target="box-9-1">
+          <mxGeometry relative="1" as_="geometry" />
+        </mxCell>
+        <mxCell id="box-9-2" value="&amp;lt;b&amp;gt;Enforcement, Audit &amp; Output Plane&amp;lt;/b&amp;gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dcfce7;strokeColor=#16a34a;strokeWidth=2;fontSize=12;fontColor=#0f172a;" vertex="1" parent="1">
+          <mxGeometry x="200" y="280" width="400" height="60" as_="geometry" />
+        </mxCell>
+        <mxCell id="edge-9-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#475569;strokeWidth=2;" edge="1" parent="1" source="box-9-1" target="box-9-2">
+          <mxGeometry relative="1" as_="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="diag-11" name="Fig 11 AI Privacy Risk Assessment Framework">
+    <mxGraphModel dx="1000" dy="600" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="title-10" value="&amp;lt;b&amp;gt;Fig 11 AI Privacy Risk Assessment Framework&amp;lt;/b&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;fontColor=#1e293b;" vertex="1" parent="1">
+          <mxGeometry x="150" y="40" width="500" height="30" as_="geometry" />
+        </mxCell>
+        <mxCell id="box-10-0" value="&amp;lt;b&amp;gt;Input &amp; Ingestion Layer&amp;lt;/b&amp;gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e0f2fe;strokeColor=#0284c7;strokeWidth=2;fontSize=12;fontColor=#0f172a;" vertex="1" parent="1">
+          <mxGeometry x="200" y="80" width="400" height="60" as_="geometry" />
+        </mxCell>
+        <mxCell id="box-10-1" value="&amp;lt;b&amp;gt;Processing, Governance &amp; Risk Assessment&amp;lt;/b&amp;gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fef3c7;strokeColor=#d97706;strokeWidth=2;fontSize=12;fontColor=#0f172a;" vertex="1" parent="1">
+          <mxGeometry x="200" y="180" width="400" height="60" as_="geometry" />
+        </mxCell>
+        <mxCell id="edge-10-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#475569;strokeWidth=2;" edge="1" parent="1" source="box-10-0" target="box-10-1">
+          <mxGeometry relative="1" as_="geometry" />
+        </mxCell>
+        <mxCell id="box-10-2" value="&amp;lt;b&amp;gt;Enforcement, Audit &amp; Output Plane&amp;lt;/b&amp;gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dcfce7;strokeColor=#16a34a;strokeWidth=2;fontSize=12;fontColor=#0f172a;" vertex="1" parent="1">
+          <mxGeometry x="200" y="280" width="400" height="60" as_="geometry" />
+        </mxCell>
+        <mxCell id="edge-10-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#475569;strokeWidth=2;" edge="1" parent="1" source="box-10-1" target="box-10-2">
+          <mxGeometry relative="1" as_="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="diag-12" name="Fig 12 Risk Prediction Pipeline">
+    <mxGraphModel dx="1000" dy="600" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="title-11" value="&amp;lt;b&amp;gt;Fig 12 Risk Prediction Pipeline&amp;lt;/b&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;fontColor=#1e293b;" vertex="1" parent="1">
+          <mxGeometry x="150" y="40" width="500" height="30" as_="geometry" />
+        </mxCell>
+        <mxCell id="box-11-0" value="&amp;lt;b&amp;gt;Input &amp; Ingestion Layer&amp;lt;/b&amp;gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e0f2fe;strokeColor=#0284c7;strokeWidth=2;fontSize=12;fontColor=#0f172a;" vertex="1" parent="1">
+          <mxGeometry x="200" y="80" width="400" height="60" as_="geometry" />
+        </mxCell>
+        <mxCell id="box-11-1" value="&amp;lt;b&amp;gt;Processing, Governance &amp; Risk Assessment&amp;lt;/b&amp;gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fef3c7;strokeColor=#d97706;strokeWidth=2;fontSize=12;fontColor=#0f172a;" vertex="1" parent="1">
+          <mxGeometry x="200" y="180" width="400" height="60" as_="geometry" />
+        </mxCell>
+        <mxCell id="edge-11-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#475569;strokeWidth=2;" edge="1" parent="1" source="box-11-0" target="box-11-1">
+          <mxGeometry relative="1" as_="geometry" />
+        </mxCell>
+        <mxCell id="box-11-2" value="&amp;lt;b&amp;gt;Enforcement, Audit &amp; Output Plane&amp;lt;/b&amp;gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dcfce7;strokeColor=#16a34a;strokeWidth=2;fontSize=12;fontColor=#0f172a;" vertex="1" parent="1">
+          <mxGeometry x="200" y="280" width="400" height="60" as_="geometry" />
+        </mxCell>
+        <mxCell id="edge-11-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#475569;strokeWidth=2;" edge="1" parent="1" source="box-11-1" target="box-11-2">
+          <mxGeometry relative="1" as_="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="diag-13" name="Fig 13 Compliance Automation Workflow">
+    <mxGraphModel dx="1000" dy="600" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="title-12" value="&amp;lt;b&amp;gt;Fig 13 Compliance Automation Workflow&amp;lt;/b&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;fontColor=#1e293b;" vertex="1" parent="1">
+          <mxGeometry x="150" y="40" width="500" height="30" as_="geometry" />
+        </mxCell>
+        <mxCell id="box-12-0" value="&amp;lt;b&amp;gt;Input &amp; Ingestion Layer&amp;lt;/b&amp;gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e0f2fe;strokeColor=#0284c7;strokeWidth=2;fontSize=12;fontColor=#0f172a;" vertex="1" parent="1">
+          <mxGeometry x="200" y="80" width="400" height="60" as_="geometry" />
+        </mxCell>
+        <mxCell id="box-12-1" value="&amp;lt;b&amp;gt;Processing, Governance &amp; Risk Assessment&amp;lt;/b&amp;gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fef3c7;strokeColor=#d97706;strokeWidth=2;fontSize=12;fontColor=#0f172a;" vertex="1" parent="1">
+          <mxGeometry x="200" y="180" width="400" height="60" as_="geometry" />
+        </mxCell>
+        <mxCell id="edge-12-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#475569;strokeWidth=2;" edge="1" parent="1" source="box-12-0" target="box-12-1">
+          <mxGeometry relative="1" as_="geometry" />
+        </mxCell>
+        <mxCell id="box-12-2" value="&amp;lt;b&amp;gt;Enforcement, Audit &amp; Output Plane&amp;lt;/b&amp;gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dcfce7;strokeColor=#16a34a;strokeWidth=2;fontSize=12;fontColor=#0f172a;" vertex="1" parent="1">
+          <mxGeometry x="200" y="280" width="400" height="60" as_="geometry" />
+        </mxCell>
+        <mxCell id="edge-12-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#475569;strokeWidth=2;" edge="1" parent="1" source="box-12-1" target="box-12-2">
+          <mxGeometry relative="1" as_="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="diag-14" name="Fig 14 Policy Enforcement Lifecycle">
+    <mxGraphModel dx="1000" dy="600" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="title-13" value="&amp;lt;b&amp;gt;Fig 14 Policy Enforcement Lifecycle&amp;lt;/b&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;fontColor=#1e293b;" vertex="1" parent="1">
+          <mxGeometry x="150" y="40" width="500" height="30" as_="geometry" />
+        </mxCell>
+        <mxCell id="box-13-0" value="&amp;lt;b&amp;gt;Input &amp; Ingestion Layer&amp;lt;/b&amp;gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e0f2fe;strokeColor=#0284c7;strokeWidth=2;fontSize=12;fontColor=#0f172a;" vertex="1" parent="1">
+          <mxGeometry x="200" y="80" width="400" height="60" as_="geometry" />
+        </mxCell>
+        <mxCell id="box-13-1" value="&amp;lt;b&amp;gt;Processing, Governance &amp; Risk Assessment&amp;lt;/b&amp;gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fef3c7;strokeColor=#d97706;strokeWidth=2;fontSize=12;fontColor=#0f172a;" vertex="1" parent="1">
+          <mxGeometry x="200" y="180" width="400" height="60" as_="geometry" />
+        </mxCell>
+        <mxCell id="edge-13-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#475569;strokeWidth=2;" edge="1" parent="1" source="box-13-0" target="box-13-1">
+          <mxGeometry relative="1" as_="geometry" />
+        </mxCell>
+        <mxCell id="box-13-2" value="&amp;lt;b&amp;gt;Enforcement, Audit &amp; Output Plane&amp;lt;/b&amp;gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dcfce7;strokeColor=#16a34a;strokeWidth=2;fontSize=12;fontColor=#0f172a;" vertex="1" parent="1">
+          <mxGeometry x="200" y="280" width="400" height="60" as_="geometry" />
+        </mxCell>
+        <mxCell id="edge-13-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#475569;strokeWidth=2;" edge="1" parent="1" source="box-13-1" target="box-13-2">
+          <mxGeometry relative="1" as_="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="diag-15" name="Fig 15 Privacy Protection Framework">
+    <mxGraphModel dx="1000" dy="600" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="title-14" value="&amp;lt;b&amp;gt;Fig 15 Privacy Protection Framework&amp;lt;/b&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;fontColor=#1e293b;" vertex="1" parent="1">
+          <mxGeometry x="150" y="40" width="500" height="30" as_="geometry" />
+        </mxCell>
+        <mxCell id="box-14-0" value="&amp;lt;b&amp;gt;Input &amp; Ingestion Layer&amp;lt;/b&amp;gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e0f2fe;strokeColor=#0284c7;strokeWidth=2;fontSize=12;fontColor=#0f172a;" vertex="1" parent="1">
+          <mxGeometry x="200" y="80" width="400" height="60" as_="geometry" />
+        </mxCell>
+        <mxCell id="box-14-1" value="&amp;lt;b&amp;gt;Processing, Governance &amp; Risk Assessment&amp;lt;/b&amp;gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fef3c7;strokeColor=#d97706;strokeWidth=2;fontSize=12;fontColor=#0f172a;" vertex="1" parent="1">
+          <mxGeometry x="200" y="180" width="400" height="60" as_="geometry" />
+        </mxCell>
+        <mxCell id="edge-14-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#475569;strokeWidth=2;" edge="1" parent="1" source="box-14-0" target="box-14-1">
+          <mxGeometry relative="1" as_="geometry" />
+        </mxCell>
+        <mxCell id="box-14-2" value="&amp;lt;b&amp;gt;Enforcement, Audit &amp; Output Plane&amp;lt;/b&amp;gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dcfce7;strokeColor=#16a34a;strokeWidth=2;fontSize=12;fontColor=#0f172a;" vertex="1" parent="1">
+          <mxGeometry x="200" y="280" width="400" height="60" as_="geometry" />
+        </mxCell>
+        <mxCell id="edge-14-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#475569;strokeWidth=2;" edge="1" parent="1" source="box-14-1" target="box-14-2">
+          <mxGeometry relative="1" as_="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="diag-16" name="Fig 16 Data Protection Lifecycle">
+    <mxGraphModel dx="1000" dy="600" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="title-15" value="&amp;lt;b&amp;gt;Fig 16 Data Protection Lifecycle&amp;lt;/b&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;fontColor=#1e293b;" vertex="1" parent="1">
+          <mxGeometry x="150" y="40" width="500" height="30" as_="geometry" />
+        </mxCell>
+        <mxCell id="box-15-0" value="&amp;lt;b&amp;gt;Input &amp; Ingestion Layer&amp;lt;/b&amp;gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e0f2fe;strokeColor=#0284c7;strokeWidth=2;fontSize=12;fontColor=#0f172a;" vertex="1" parent="1">
+          <mxGeometry x="200" y="80" width="400" height="60" as_="geometry" />
+        </mxCell>
+        <mxCell id="box-15-1" value="&amp;lt;b&amp;gt;Processing, Governance &amp; Risk Assessment&amp;lt;/b&amp;gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fef3c7;strokeColor=#d97706;strokeWidth=2;fontSize=12;fontColor=#0f172a;" vertex="1" parent="1">
+          <mxGeometry x="200" y="180" width="400" height="60" as_="geometry" />
+        </mxCell>
+        <mxCell id="edge-15-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#475569;strokeWidth=2;" edge="1" parent="1" source="box-15-0" target="box-15-1">
+          <mxGeometry relative="1" as_="geometry" />
+        </mxCell>
+        <mxCell id="box-15-2" value="&amp;lt;b&amp;gt;Enforcement, Audit &amp; Output Plane&amp;lt;/b&amp;gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dcfce7;strokeColor=#16a34a;strokeWidth=2;fontSize=12;fontColor=#0f172a;" vertex="1" parent="1">
+          <mxGeometry x="200" y="280" width="400" height="60" as_="geometry" />
+        </mxCell>
+        <mxCell id="edge-15-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#475569;strokeWidth=2;" edge="1" parent="1" source="box-15-1" target="box-15-2">
+          <mxGeometry relative="1" as_="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="diag-17" name="Fig 17 Explainable Compliance Framework">
+    <mxGraphModel dx="1000" dy="600" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="title-16" value="&amp;lt;b&amp;gt;Fig 17 Explainable Compliance Framework&amp;lt;/b&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;fontColor=#1e293b;" vertex="1" parent="1">
+          <mxGeometry x="150" y="40" width="500" height="30" as_="geometry" />
+        </mxCell>
+        <mxCell id="box-16-0" value="&amp;lt;b&amp;gt;Input &amp; Ingestion Layer&amp;lt;/b&amp;gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e0f2fe;strokeColor=#0284c7;strokeWidth=2;fontSize=12;fontColor=#0f172a;" vertex="1" parent="1">
+          <mxGeometry x="200" y="80" width="400" height="60" as_="geometry" />
+        </mxCell>
+        <mxCell id="box-16-1" value="&amp;lt;b&amp;gt;Processing, Governance &amp; Risk Assessment&amp;lt;/b&amp;gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fef3c7;strokeColor=#d97706;strokeWidth=2;fontSize=12;fontColor=#0f172a;" vertex="1" parent="1">
+          <mxGeometry x="200" y="180" width="400" height="60" as_="geometry" />
+        </mxCell>
+        <mxCell id="edge-16-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#475569;strokeWidth=2;" edge="1" parent="1" source="box-16-0" target="box-16-1">
+          <mxGeometry relative="1" as_="geometry" />
+        </mxCell>
+        <mxCell id="box-16-2" value="&amp;lt;b&amp;gt;Enforcement, Audit &amp; Output Plane&amp;lt;/b&amp;gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dcfce7;strokeColor=#16a34a;strokeWidth=2;fontSize=12;fontColor=#0f172a;" vertex="1" parent="1">
+          <mxGeometry x="200" y="280" width="400" height="60" as_="geometry" />
+        </mxCell>
+        <mxCell id="edge-16-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#475569;strokeWidth=2;" edge="1" parent="1" source="box-16-1" target="box-16-2">
+          <mxGeometry relative="1" as_="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="diag-18" name="Fig 18 Auditability and Transparency Dashboard">
+    <mxGraphModel dx="1000" dy="600" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="title-17" value="&amp;lt;b&amp;gt;Fig 18 Auditability and Transparency Dashboard&amp;lt;/b&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;fontColor=#1e293b;" vertex="1" parent="1">
+          <mxGeometry x="150" y="40" width="500" height="30" as_="geometry" />
+        </mxCell>
+        <mxCell id="box-17-0" value="&amp;lt;b&amp;gt;Input &amp; Ingestion Layer&amp;lt;/b&amp;gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e0f2fe;strokeColor=#0284c7;strokeWidth=2;fontSize=12;fontColor=#0f172a;" vertex="1" parent="1">
+          <mxGeometry x="200" y="80" width="400" height="60" as_="geometry" />
+        </mxCell>
+        <mxCell id="box-17-1" value="&amp;lt;b&amp;gt;Processing, Governance &amp; Risk Assessment&amp;lt;/b&amp;gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fef3c7;strokeColor=#d97706;strokeWidth=2;fontSize=12;fontColor=#0f172a;" vertex="1" parent="1">
+          <mxGeometry x="200" y="180" width="400" height="60" as_="geometry" />
+        </mxCell>
+        <mxCell id="edge-17-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#475569;strokeWidth=2;" edge="1" parent="1" source="box-17-0" target="box-17-1">
+          <mxGeometry relative="1" as_="geometry" />
+        </mxCell>
+        <mxCell id="box-17-2" value="&amp;lt;b&amp;gt;Enforcement, Audit &amp; Output Plane&amp;lt;/b&amp;gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dcfce7;strokeColor=#16a34a;strokeWidth=2;fontSize=12;fontColor=#0f172a;" vertex="1" parent="1">
+          <mxGeometry x="200" y="280" width="400" height="60" as_="geometry" />
+        </mxCell>
+        <mxCell id="edge-17-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#475569;strokeWidth=2;" edge="1" parent="1" source="box-17-1" target="box-17-2">
+          <mxGeometry relative="1" as_="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="diag-19" name="Fig 19 Regulatory Compliance Architecture">
+    <mxGraphModel dx="1000" dy="600" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="title-18" value="&amp;lt;b&amp;gt;Fig 19 Regulatory Compliance Architecture&amp;lt;/b&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;fontColor=#1e293b;" vertex="1" parent="1">
+          <mxGeometry x="150" y="40" width="500" height="30" as_="geometry" />
+        </mxCell>
+        <mxCell id="box-18-0" value="&amp;lt;b&amp;gt;Input &amp; Ingestion Layer&amp;lt;/b&amp;gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e0f2fe;strokeColor=#0284c7;strokeWidth=2;fontSize=12;fontColor=#0f172a;" vertex="1" parent="1">
+          <mxGeometry x="200" y="80" width="400" height="60" as_="geometry" />
+        </mxCell>
+        <mxCell id="box-18-1" value="&amp;lt;b&amp;gt;Processing, Governance &amp; Risk Assessment&amp;lt;/b&amp;gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fef3c7;strokeColor=#d97706;strokeWidth=2;fontSize=12;fontColor=#0f172a;" vertex="1" parent="1">
+          <mxGeometry x="200" y="180" width="400" height="60" as_="geometry" />
+        </mxCell>
+        <mxCell id="edge-18-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#475569;strokeWidth=2;" edge="1" parent="1" source="box-18-0" target="box-18-1">
+          <mxGeometry relative="1" as_="geometry" />
+        </mxCell>
+        <mxCell id="box-18-2" value="&amp;lt;b&amp;gt;Enforcement, Audit &amp; Output Plane&amp;lt;/b&amp;gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dcfce7;strokeColor=#16a34a;strokeWidth=2;fontSize=12;fontColor=#0f172a;" vertex="1" parent="1">
+          <mxGeometry x="200" y="280" width="400" height="60" as_="geometry" />
+        </mxCell>
+        <mxCell id="edge-18-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#475569;strokeWidth=2;" edge="1" parent="1" source="box-18-1" target="box-18-2">
+          <mxGeometry relative="1" as_="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="diag-20" name="Fig 20 Security Intelligence Framework">
+    <mxGraphModel dx="1000" dy="600" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="title-19" value="&amp;lt;b&amp;gt;Fig 20 Security Intelligence Framework&amp;lt;/b&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;fontColor=#1e293b;" vertex="1" parent="1">
+          <mxGeometry x="150" y="40" width="500" height="30" as_="geometry" />
+        </mxCell>
+        <mxCell id="box-19-0" value="&amp;lt;b&amp;gt;Input &amp; Ingestion Layer&amp;lt;/b&amp;gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e0f2fe;strokeColor=#0284c7;strokeWidth=2;fontSize=12;fontColor=#0f172a;" vertex="1" parent="1">
+          <mxGeometry x="200" y="80" width="400" height="60" as_="geometry" />
+        </mxCell>
+        <mxCell id="box-19-1" value="&amp;lt;b&amp;gt;Processing, Governance &amp; Risk Assessment&amp;lt;/b&amp;gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fef3c7;strokeColor=#d97706;strokeWidth=2;fontSize=12;fontColor=#0f172a;" vertex="1" parent="1">
+          <mxGeometry x="200" y="180" width="400" height="60" as_="geometry" />
+        </mxCell>
+        <mxCell id="edge-19-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#475569;strokeWidth=2;" edge="1" parent="1" source="box-19-0" target="box-19-1">
+          <mxGeometry relative="1" as_="geometry" />
+        </mxCell>
+        <mxCell id="box-19-2" value="&amp;lt;b&amp;gt;Enforcement, Audit &amp; Output Plane&amp;lt;/b&amp;gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dcfce7;strokeColor=#16a34a;strokeWidth=2;fontSize=12;fontColor=#0f172a;" vertex="1" parent="1">
+          <mxGeometry x="200" y="280" width="400" height="60" as_="geometry" />
+        </mxCell>
+        <mxCell id="edge-19-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#475569;strokeWidth=2;" edge="1" parent="1" source="box-19-1" target="box-19-2">
+          <mxGeometry relative="1" as_="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="diag-21" name="Fig 21 Experimental Testbed Architecture">
+    <mxGraphModel dx="1000" dy="600" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="title-20" value="&amp;lt;b&amp;gt;Fig 21 Experimental Testbed Architecture&amp;lt;/b&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;fontColor=#1e293b;" vertex="1" parent="1">
+          <mxGeometry x="150" y="40" width="500" height="30" as_="geometry" />
+        </mxCell>
+        <mxCell id="box-20-0" value="&amp;lt;b&amp;gt;Input &amp; Ingestion Layer&amp;lt;/b&amp;gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e0f2fe;strokeColor=#0284c7;strokeWidth=2;fontSize=12;fontColor=#0f172a;" vertex="1" parent="1">
+          <mxGeometry x="200" y="80" width="400" height="60" as_="geometry" />
+        </mxCell>
+        <mxCell id="box-20-1" value="&amp;lt;b&amp;gt;Processing, Governance &amp; Risk Assessment&amp;lt;/b&amp;gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fef3c7;strokeColor=#d97706;strokeWidth=2;fontSize=12;fontColor=#0f172a;" vertex="1" parent="1">
+          <mxGeometry x="200" y="180" width="400" height="60" as_="geometry" />
+        </mxCell>
+        <mxCell id="edge-20-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#475569;strokeWidth=2;" edge="1" parent="1" source="box-20-0" target="box-20-1">
+          <mxGeometry relative="1" as_="geometry" />
+        </mxCell>
+        <mxCell id="box-20-2" value="&amp;lt;b&amp;gt;Enforcement, Audit &amp; Output Plane&amp;lt;/b&amp;gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dcfce7;strokeColor=#16a34a;strokeWidth=2;fontSize=12;fontColor=#0f172a;" vertex="1" parent="1">
+          <mxGeometry x="200" y="280" width="400" height="60" as_="geometry" />
+        </mxCell>
+        <mxCell id="edge-20-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#475569;strokeWidth=2;" edge="1" parent="1" source="box-20-1" target="box-20-2">
+          <mxGeometry relative="1" as_="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="diag-22" name="Fig 22 Evaluation Framework">
+    <mxGraphModel dx="1000" dy="600" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="title-21" value="&amp;lt;b&amp;gt;Fig 22 Evaluation Framework&amp;lt;/b&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;fontColor=#1e293b;" vertex="1" parent="1">
+          <mxGeometry x="150" y="40" width="500" height="30" as_="geometry" />
+        </mxCell>
+        <mxCell id="box-21-0" value="&amp;lt;b&amp;gt;Input &amp; Ingestion Layer&amp;lt;/b&amp;gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e0f2fe;strokeColor=#0284c7;strokeWidth=2;fontSize=12;fontColor=#0f172a;" vertex="1" parent="1">
+          <mxGeometry x="200" y="80" width="400" height="60" as_="geometry" />
+        </mxCell>
+        <mxCell id="box-21-1" value="&amp;lt;b&amp;gt;Processing, Governance &amp; Risk Assessment&amp;lt;/b&amp;gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fef3c7;strokeColor=#d97706;strokeWidth=2;fontSize=12;fontColor=#0f172a;" vertex="1" parent="1">
+          <mxGeometry x="200" y="180" width="400" height="60" as_="geometry" />
+        </mxCell>
+        <mxCell id="edge-21-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#475569;strokeWidth=2;" edge="1" parent="1" source="box-21-0" target="box-21-1">
+          <mxGeometry relative="1" as_="geometry" />
+        </mxCell>
+        <mxCell id="box-21-2" value="&amp;lt;b&amp;gt;Enforcement, Audit &amp; Output Plane&amp;lt;/b&amp;gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dcfce7;strokeColor=#16a34a;strokeWidth=2;fontSize=12;fontColor=#0f172a;" vertex="1" parent="1">
+          <mxGeometry x="200" y="280" width="400" height="60" as_="geometry" />
+        </mxCell>
+        <mxCell id="edge-21-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#475569;strokeWidth=2;" edge="1" parent="1" source="box-21-1" target="box-21-2">
+          <mxGeometry relative="1" as_="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="diag-23" name="Fig 23 Compliance Accuracy Performance Analysis">
+    <mxGraphModel dx="1000" dy="600" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="title-22" value="&amp;lt;b&amp;gt;Fig 23 Compliance Accuracy Performance Analysis&amp;lt;/b&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;fontColor=#1e293b;" vertex="1" parent="1">
+          <mxGeometry x="150" y="40" width="500" height="30" as_="geometry" />
+        </mxCell>
+        <mxCell id="box-22-0" value="&amp;lt;b&amp;gt;Input &amp; Ingestion Layer&amp;lt;/b&amp;gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e0f2fe;strokeColor=#0284c7;strokeWidth=2;fontSize=12;fontColor=#0f172a;" vertex="1" parent="1">
+          <mxGeometry x="200" y="80" width="400" height="60" as_="geometry" />
+        </mxCell>
+        <mxCell id="box-22-1" value="&amp;lt;b&amp;gt;Processing, Governance &amp; Risk Assessment&amp;lt;/b&amp;gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fef3c7;strokeColor=#d97706;strokeWidth=2;fontSize=12;fontColor=#0f172a;" vertex="1" parent="1">
+          <mxGeometry x="200" y="180" width="400" height="60" as_="geometry" />
+        </mxCell>
+        <mxCell id="edge-22-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#475569;strokeWidth=2;" edge="1" parent="1" source="box-22-0" target="box-22-1">
+          <mxGeometry relative="1" as_="geometry" />
+        </mxCell>
+        <mxCell id="box-22-2" value="&amp;lt;b&amp;gt;Enforcement, Audit &amp; Output Plane&amp;lt;/b&amp;gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dcfce7;strokeColor=#16a34a;strokeWidth=2;fontSize=12;fontColor=#0f172a;" vertex="1" parent="1">
+          <mxGeometry x="200" y="280" width="400" height="60" as_="geometry" />
+        </mxCell>
+        <mxCell id="edge-22-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#475569;strokeWidth=2;" edge="1" parent="1" source="box-22-1" target="box-22-2">
+          <mxGeometry relative="1" as_="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="diag-24" name="Fig 24 Privacy-Preservation Control Indicators">
+    <mxGraphModel dx="1000" dy="600" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="title-23" value="&amp;lt;b&amp;gt;Fig 24 Privacy-Preservation Control Indicators&amp;lt;/b&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;fontColor=#1e293b;" vertex="1" parent="1">
+          <mxGeometry x="150" y="40" width="500" height="30" as_="geometry" />
+        </mxCell>
+        <mxCell id="box-23-0" value="&amp;lt;b&amp;gt;Input &amp; Ingestion Layer&amp;lt;/b&amp;gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e0f2fe;strokeColor=#0284c7;strokeWidth=2;fontSize=12;fontColor=#0f172a;" vertex="1" parent="1">
+          <mxGeometry x="200" y="80" width="400" height="60" as_="geometry" />
+        </mxCell>
+        <mxCell id="box-23-1" value="&amp;lt;b&amp;gt;Processing, Governance &amp; Risk Assessment&amp;lt;/b&amp;gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fef3c7;strokeColor=#d97706;strokeWidth=2;fontSize=12;fontColor=#0f172a;" vertex="1" parent="1">
+          <mxGeometry x="200" y="180" width="400" height="60" as_="geometry" />
+        </mxCell>
+        <mxCell id="edge-23-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#475569;strokeWidth=2;" edge="1" parent="1" source="box-23-0" target="box-23-1">
+          <mxGeometry relative="1" as_="geometry" />
+        </mxCell>
+        <mxCell id="box-23-2" value="&amp;lt;b&amp;gt;Enforcement, Audit &amp; Output Plane&amp;lt;/b&amp;gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dcfce7;strokeColor=#16a34a;strokeWidth=2;fontSize=12;fontColor=#0f172a;" vertex="1" parent="1">
+          <mxGeometry x="200" y="280" width="400" height="60" as_="geometry" />
+        </mxCell>
+        <mxCell id="edge-23-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#475569;strokeWidth=2;" edge="1" parent="1" source="box-23-1" target="box-23-2">
+          <mxGeometry relative="1" as_="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="diag-25" name="Fig 25 Governance Maturity and Compliance Assessment">
+    <mxGraphModel dx="1000" dy="600" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="title-24" value="&amp;lt;b&amp;gt;Fig 25 Governance Maturity and Compliance Assessment&amp;lt;/b&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;fontColor=#1e293b;" vertex="1" parent="1">
+          <mxGeometry x="150" y="40" width="500" height="30" as_="geometry" />
+        </mxCell>
+        <mxCell id="box-24-0" value="&amp;lt;b&amp;gt;Input &amp; Ingestion Layer&amp;lt;/b&amp;gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e0f2fe;strokeColor=#0284c7;strokeWidth=2;fontSize=12;fontColor=#0f172a;" vertex="1" parent="1">
+          <mxGeometry x="200" y="80" width="400" height="60" as_="geometry" />
+        </mxCell>
+        <mxCell id="box-24-1" value="&amp;lt;b&amp;gt;Processing, Governance &amp; Risk Assessment&amp;lt;/b&amp;gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fef3c7;strokeColor=#d97706;strokeWidth=2;fontSize=12;fontColor=#0f172a;" vertex="1" parent="1">
+          <mxGeometry x="200" y="180" width="400" height="60" as_="geometry" />
+        </mxCell>
+        <mxCell id="edge-24-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#475569;strokeWidth=2;" edge="1" parent="1" source="box-24-0" target="box-24-1">
+          <mxGeometry relative="1" as_="geometry" />
+        </mxCell>
+        <mxCell id="box-24-2" value="&amp;lt;b&amp;gt;Enforcement, Audit &amp; Output Plane&amp;lt;/b&amp;gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dcfce7;strokeColor=#16a34a;strokeWidth=2;fontSize=12;fontColor=#0f172a;" vertex="1" parent="1">
+          <mxGeometry x="200" y="280" width="400" height="60" as_="geometry" />
+        </mxCell>
+        <mxCell id="edge-24-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#475569;strokeWidth=2;" edge="1" parent="1" source="box-24-1" target="box-24-2">
+          <mxGeometry relative="1" as_="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="diag-26" name="Fig 26 Comparative Benchmark Analysis">
+    <mxGraphModel dx="1000" dy="600" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="title-25" value="&amp;lt;b&amp;gt;Fig 26 Comparative Benchmark Analysis&amp;lt;/b&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;fontColor=#1e293b;" vertex="1" parent="1">
+          <mxGeometry x="150" y="40" width="500" height="30" as_="geometry" />
+        </mxCell>
+        <mxCell id="box-25-0" value="&amp;lt;b&amp;gt;Input &amp; Ingestion Layer&amp;lt;/b&amp;gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e0f2fe;strokeColor=#0284c7;strokeWidth=2;fontSize=12;fontColor=#0f172a;" vertex="1" parent="1">
+          <mxGeometry x="200" y="80" width="400" height="60" as_="geometry" />
+        </mxCell>
+        <mxCell id="box-25-1" value="&amp;lt;b&amp;gt;Processing, Governance &amp; Risk Assessment&amp;lt;/b&amp;gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fef3c7;strokeColor=#d97706;strokeWidth=2;fontSize=12;fontColor=#0f172a;" vertex="1" parent="1">
+          <mxGeometry x="200" y="180" width="400" height="60" as_="geometry" />
+        </mxCell>
+        <mxCell id="edge-25-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#475569;strokeWidth=2;" edge="1" parent="1" source="box-25-0" target="box-25-1">
+          <mxGeometry relative="1" as_="geometry" />
+        </mxCell>
+        <mxCell id="box-25-2" value="&amp;lt;b&amp;gt;Enforcement, Audit &amp; Output Plane&amp;lt;/b&amp;gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dcfce7;strokeColor=#16a34a;strokeWidth=2;fontSize=12;fontColor=#0f172a;" vertex="1" parent="1">
+          <mxGeometry x="200" y="280" width="400" height="60" as_="geometry" />
+        </mxCell>
+        <mxCell id="edge-25-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#475569;strokeWidth=2;" edge="1" parent="1" source="box-25-1" target="box-25-2">
+          <mxGeometry relative="1" as_="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="diag-27" name="Fig 27 Governance Maturity Framework">
+    <mxGraphModel dx="1000" dy="600" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="title-26" value="&amp;lt;b&amp;gt;Fig 27 Governance Maturity Framework&amp;lt;/b&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;fontColor=#1e293b;" vertex="1" parent="1">
+          <mxGeometry x="150" y="40" width="500" height="30" as_="geometry" />
+        </mxCell>
+        <mxCell id="box-26-0" value="&amp;lt;b&amp;gt;Input &amp; Ingestion Layer&amp;lt;/b&amp;gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e0f2fe;strokeColor=#0284c7;strokeWidth=2;fontSize=12;fontColor=#0f172a;" vertex="1" parent="1">
+          <mxGeometry x="200" y="80" width="400" height="60" as_="geometry" />
+        </mxCell>
+        <mxCell id="box-26-1" value="&amp;lt;b&amp;gt;Processing, Governance &amp; Risk Assessment&amp;lt;/b&amp;gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fef3c7;strokeColor=#d97706;strokeWidth=2;fontSize=12;fontColor=#0f172a;" vertex="1" parent="1">
+          <mxGeometry x="200" y="180" width="400" height="60" as_="geometry" />
+        </mxCell>
+        <mxCell id="edge-26-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#475569;strokeWidth=2;" edge="1" parent="1" source="box-26-0" target="box-26-1">
+          <mxGeometry relative="1" as_="geometry" />
+        </mxCell>
+        <mxCell id="box-26-2" value="&amp;lt;b&amp;gt;Enforcement, Audit &amp; Output Plane&amp;lt;/b&amp;gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dcfce7;strokeColor=#16a34a;strokeWidth=2;fontSize=12;fontColor=#0f172a;" vertex="1" parent="1">
+          <mxGeometry x="200" y="280" width="400" height="60" as_="geometry" />
+        </mxCell>
+        <mxCell id="edge-26-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#475569;strokeWidth=2;" edge="1" parent="1" source="box-26-1" target="box-26-2">
+          <mxGeometry relative="1" as_="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="diag-28" name="Fig 28 Smart City Compliance Ecosystem">
+    <mxGraphModel dx="1000" dy="600" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="title-27" value="&amp;lt;b&amp;gt;Fig 28 Smart City Compliance Ecosystem&amp;lt;/b&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;fontColor=#1e293b;" vertex="1" parent="1">
+          <mxGeometry x="150" y="40" width="500" height="30" as_="geometry" />
+        </mxCell>
+        <mxCell id="box-27-0" value="&amp;lt;b&amp;gt;Input &amp; Ingestion Layer&amp;lt;/b&amp;gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e0f2fe;strokeColor=#0284c7;strokeWidth=2;fontSize=12;fontColor=#0f172a;" vertex="1" parent="1">
+          <mxGeometry x="200" y="80" width="400" height="60" as_="geometry" />
+        </mxCell>
+        <mxCell id="box-27-1" value="&amp;lt;b&amp;gt;Processing, Governance &amp; Risk Assessment&amp;lt;/b&amp;gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fef3c7;strokeColor=#d97706;strokeWidth=2;fontSize=12;fontColor=#0f172a;" vertex="1" parent="1">
+          <mxGeometry x="200" y="180" width="400" height="60" as_="geometry" />
+        </mxCell>
+        <mxCell id="edge-27-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#475569;strokeWidth=2;" edge="1" parent="1" source="box-27-0" target="box-27-1">
+          <mxGeometry relative="1" as_="geometry" />
+        </mxCell>
+        <mxCell id="box-27-2" value="&amp;lt;b&amp;gt;Enforcement, Audit &amp; Output Plane&amp;lt;/b&amp;gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dcfce7;strokeColor=#16a34a;strokeWidth=2;fontSize=12;fontColor=#0f172a;" vertex="1" parent="1">
+          <mxGeometry x="200" y="280" width="400" height="60" as_="geometry" />
+        </mxCell>
+        <mxCell id="edge-27-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#475569;strokeWidth=2;" edge="1" parent="1" source="box-27-1" target="box-27-2">
+          <mxGeometry relative="1" as_="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="diag-29" name="Fig 29 Healthcare IoT Governance Framework">
+    <mxGraphModel dx="1000" dy="600" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="title-28" value="&amp;lt;b&amp;gt;Fig 29 Healthcare IoT Governance Framework&amp;lt;/b&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;fontColor=#1e293b;" vertex="1" parent="1">
+          <mxGeometry x="150" y="40" width="500" height="30" as_="geometry" />
+        </mxCell>
+        <mxCell id="box-28-0" value="&amp;lt;b&amp;gt;Input &amp; Ingestion Layer&amp;lt;/b&amp;gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e0f2fe;strokeColor=#0284c7;strokeWidth=2;fontSize=12;fontColor=#0f172a;" vertex="1" parent="1">
+          <mxGeometry x="200" y="80" width="400" height="60" as_="geometry" />
+        </mxCell>
+        <mxCell id="box-28-1" value="&amp;lt;b&amp;gt;Processing, Governance &amp; Risk Assessment&amp;lt;/b&amp;gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fef3c7;strokeColor=#d97706;strokeWidth=2;fontSize=12;fontColor=#0f172a;" vertex="1" parent="1">
+          <mxGeometry x="200" y="180" width="400" height="60" as_="geometry" />
+        </mxCell>
+        <mxCell id="edge-28-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#475569;strokeWidth=2;" edge="1" parent="1" source="box-28-0" target="box-28-1">
+          <mxGeometry relative="1" as_="geometry" />
+        </mxCell>
+        <mxCell id="box-28-2" value="&amp;lt;b&amp;gt;Enforcement, Audit &amp; Output Plane&amp;lt;/b&amp;gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dcfce7;strokeColor=#16a34a;strokeWidth=2;fontSize=12;fontColor=#0f172a;" vertex="1" parent="1">
+          <mxGeometry x="200" y="280" width="400" height="60" as_="geometry" />
+        </mxCell>
+        <mxCell id="edge-28-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#475569;strokeWidth=2;" edge="1" parent="1" source="box-28-1" target="box-28-2">
+          <mxGeometry relative="1" as_="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="diag-30" name="Fig 30 Control-Coverage Dashboard">
+    <mxGraphModel dx="1000" dy="600" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="title-29" value="&amp;lt;b&amp;gt;Fig 30 Control-Coverage Dashboard&amp;lt;/b&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;fontColor=#1e293b;" vertex="1" parent="1">
+          <mxGeometry x="150" y="40" width="500" height="30" as_="geometry" />
+        </mxCell>
+        <mxCell id="box-29-0" value="&amp;lt;b&amp;gt;Input &amp; Ingestion Layer&amp;lt;/b&amp;gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e0f2fe;strokeColor=#0284c7;strokeWidth=2;fontSize=12;fontColor=#0f172a;" vertex="1" parent="1">
+          <mxGeometry x="200" y="80" width="400" height="60" as_="geometry" />
+        </mxCell>
+        <mxCell id="box-29-1" value="&amp;lt;b&amp;gt;Processing, Governance &amp; Risk Assessment&amp;lt;/b&amp;gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fef3c7;strokeColor=#d97706;strokeWidth=2;fontSize=12;fontColor=#0f172a;" vertex="1" parent="1">
+          <mxGeometry x="200" y="180" width="400" height="60" as_="geometry" />
+        </mxCell>
+        <mxCell id="edge-29-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#475569;strokeWidth=2;" edge="1" parent="1" source="box-29-0" target="box-29-1">
+          <mxGeometry relative="1" as_="geometry" />
+        </mxCell>
+        <mxCell id="box-29-2" value="&amp;lt;b&amp;gt;Enforcement, Audit &amp; Output Plane&amp;lt;/b&amp;gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dcfce7;strokeColor=#16a34a;strokeWidth=2;fontSize=12;fontColor=#0f172a;" vertex="1" parent="1">
+          <mxGeometry x="200" y="280" width="400" height="60" as_="geometry" />
+        </mxCell>
+        <mxCell id="edge-29-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#475569;strokeWidth=2;" edge="1" parent="1" source="box-29-1" target="box-29-2">
+          <mxGeometry relative="1" as_="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="diag-31" name="Fig 31 Challenges and Limitations Roadmap">
+    <mxGraphModel dx="1000" dy="600" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="title-30" value="&amp;lt;b&amp;gt;Fig 31 Challenges and Limitations Roadmap&amp;lt;/b&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;fontColor=#1e293b;" vertex="1" parent="1">
+          <mxGeometry x="150" y="40" width="500" height="30" as_="geometry" />
+        </mxCell>
+        <mxCell id="box-30-0" value="&amp;lt;b&amp;gt;Input &amp; Ingestion Layer&amp;lt;/b&amp;gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e0f2fe;strokeColor=#0284c7;strokeWidth=2;fontSize=12;fontColor=#0f172a;" vertex="1" parent="1">
+          <mxGeometry x="200" y="80" width="400" height="60" as_="geometry" />
+        </mxCell>
+        <mxCell id="box-30-1" value="&amp;lt;b&amp;gt;Processing, Governance &amp; Risk Assessment&amp;lt;/b&amp;gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fef3c7;strokeColor=#d97706;strokeWidth=2;fontSize=12;fontColor=#0f172a;" vertex="1" parent="1">
+          <mxGeometry x="200" y="180" width="400" height="60" as_="geometry" />
+        </mxCell>
+        <mxCell id="edge-30-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#475569;strokeWidth=2;" edge="1" parent="1" source="box-30-0" target="box-30-1">
+          <mxGeometry relative="1" as_="geometry" />
+        </mxCell>
+        <mxCell id="box-30-2" value="&amp;lt;b&amp;gt;Enforcement, Audit &amp; Output Plane&amp;lt;/b&amp;gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dcfce7;strokeColor=#16a34a;strokeWidth=2;fontSize=12;fontColor=#0f172a;" vertex="1" parent="1">
+          <mxGeometry x="200" y="280" width="400" height="60" as_="geometry" />
+        </mxCell>
+        <mxCell id="edge-30-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#475569;strokeWidth=2;" edge="1" parent="1" source="box-30-1" target="box-30-2">
+          <mxGeometry relative="1" as_="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="diag-32" name="Fig 32 Future Research Roadmap">
+    <mxGraphModel dx="1000" dy="600" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="title-31" value="&amp;lt;b&amp;gt;Fig 32 Future Research Roadmap&amp;lt;/b&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;fontColor=#1e293b;" vertex="1" parent="1">
+          <mxGeometry x="150" y="40" width="500" height="30" as_="geometry" />
+        </mxCell>
+        <mxCell id="box-31-0" value="&amp;lt;b&amp;gt;Input &amp; Ingestion Layer&amp;lt;/b&amp;gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e0f2fe;strokeColor=#0284c7;strokeWidth=2;fontSize=12;fontColor=#0f172a;" vertex="1" parent="1">
+          <mxGeometry x="200" y="80" width="400" height="60" as_="geometry" />
+        </mxCell>
+        <mxCell id="box-31-1" value="&amp;lt;b&amp;gt;Processing, Governance &amp; Risk Assessment&amp;lt;/b&amp;gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fef3c7;strokeColor=#d97706;strokeWidth=2;fontSize=12;fontColor=#0f172a;" vertex="1" parent="1">
+          <mxGeometry x="200" y="180" width="400" height="60" as_="geometry" />
+        </mxCell>
+        <mxCell id="edge-31-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#475569;strokeWidth=2;" edge="1" parent="1" source="box-31-0" target="box-31-1">
+          <mxGeometry relative="1" as_="geometry" />
+        </mxCell>
+        <mxCell id="box-31-2" value="&amp;lt;b&amp;gt;Enforcement, Audit &amp; Output Plane&amp;lt;/b&amp;gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dcfce7;strokeColor=#16a34a;strokeWidth=2;fontSize=12;fontColor=#0f172a;" vertex="1" parent="1">
+          <mxGeometry x="200" y="280" width="400" height="60" as_="geometry" />
+        </mxCell>
+        <mxCell id="edge-31-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#475569;strokeWidth=2;" edge="1" parent="1" source="box-31-1" target="box-31-2">
+          <mxGeometry relative="1" as_="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="diag-33" name="Fig 33 Next-Generation AI Governance Ecosystem">
+    <mxGraphModel dx="1000" dy="600" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="title-32" value="&amp;lt;b&amp;gt;Fig 33 Next-Generation AI Governance Ecosystem&amp;lt;/b&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;fontColor=#1e293b;" vertex="1" parent="1">
+          <mxGeometry x="150" y="40" width="500" height="30" as_="geometry" />
+        </mxCell>
+        <mxCell id="box-32-0" value="&amp;lt;b&amp;gt;Input &amp; Ingestion Layer&amp;lt;/b&amp;gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e0f2fe;strokeColor=#0284c7;strokeWidth=2;fontSize=12;fontColor=#0f172a;" vertex="1" parent="1">
+          <mxGeometry x="200" y="80" width="400" height="60" as_="geometry" />
+        </mxCell>
+        <mxCell id="box-32-1" value="&amp;lt;b&amp;gt;Processing, Governance &amp; Risk Assessment&amp;lt;/b&amp;gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fef3c7;strokeColor=#d97706;strokeWidth=2;fontSize=12;fontColor=#0f172a;" vertex="1" parent="1">
+          <mxGeometry x="200" y="180" width="400" height="60" as_="geometry" />
+        </mxCell>
+        <mxCell id="edge-32-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#475569;strokeWidth=2;" edge="1" parent="1" source="box-32-0" target="box-32-1">
+          <mxGeometry relative="1" as_="geometry" />
+        </mxCell>
+        <mxCell id="box-32-2" value="&amp;lt;b&amp;gt;Enforcement, Audit &amp; Output Plane&amp;lt;/b&amp;gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dcfce7;strokeColor=#16a34a;strokeWidth=2;fontSize=12;fontColor=#0f172a;" vertex="1" parent="1">
+          <mxGeometry x="200" y="280" width="400" height="60" as_="geometry" />
+        </mxCell>
+        <mxCell id="edge-32-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#475569;strokeWidth=2;" edge="1" parent="1" source="box-32-1" target="box-32-2">
+          <mxGeometry relative="1" as_="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="diag-34" name="Fig 34 Research Contribution Framework">
+    <mxGraphModel dx="1000" dy="600" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="title-33" value="&amp;lt;b&amp;gt;Fig 34 Research Contribution Framework&amp;lt;/b&amp;gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;fontColor=#1e293b;" vertex="1" parent="1">
+          <mxGeometry x="150" y="40" width="500" height="30" as_="geometry" />
+        </mxCell>
+        <mxCell id="box-33-0" value="&amp;lt;b&amp;gt;Input &amp; Ingestion Layer&amp;lt;/b&amp;gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e0f2fe;strokeColor=#0284c7;strokeWidth=2;fontSize=12;fontColor=#0f172a;" vertex="1" parent="1">
+          <mxGeometry x="200" y="80" width="400" height="60" as_="geometry" />
+        </mxCell>
+        <mxCell id="box-33-1" value="&amp;lt;b&amp;gt;Processing, Governance &amp; Risk Assessment&amp;lt;/b&amp;gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fef3c7;strokeColor=#d97706;strokeWidth=2;fontSize=12;fontColor=#0f172a;" vertex="1" parent="1">
+          <mxGeometry x="200" y="180" width="400" height="60" as_="geometry" />
+        </mxCell>
+        <mxCell id="edge-33-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#475569;strokeWidth=2;" edge="1" parent="1" source="box-33-0" target="box-33-1">
+          <mxGeometry relative="1" as_="geometry" />
+        </mxCell>
+        <mxCell id="box-33-2" value="&amp;lt;b&amp;gt;Enforcement, Audit &amp; Output Plane&amp;lt;/b&amp;gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dcfce7;strokeColor=#16a34a;strokeWidth=2;fontSize=12;fontColor=#0f172a;" vertex="1" parent="1">
+          <mxGeometry x="200" y="280" width="400" height="60" as_="geometry" />
+        </mxCell>
+        <mxCell id="edge-33-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#475569;strokeWidth=2;" edge="1" parent="1" source="box-33-1" target="box-33-2">
+          <mxGeometry relative="1" as_="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
